@@ -1,0 +1,258 @@
+a{
+    color: #020e2c;
+    text-decoration:none
+}
+button{
+    cursor: pointer;
+}
+.font{
+
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0px;
+    display: inline-block;
+    text-align: right;
+    margin: 30px;
+
+}
+.left{
+    display: inline-block;
+    text-align: right;
+
+}
+.join {
+    padding: 5px 20px;
+    border: 2px solid #020e2c;
+    color:#020e2c;
+    background-color: white;
+    border-radius: 300px;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;  
+    
+}
+
+.imgs{
+    width: 130px;
+    display:inline-block;
+    padding-inline-end: 200px;
+
+}
+.collection1{
+    padding-inline-start: 530px;
+    padding-inline-end: 15px;
+    display: inline-block;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+     
+}
+.collection2{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+
+}
+.collection3{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+}
+.collection4{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+}
+
+
+.foto{
+    margin-bottom: 100px;
+    margin-top: 0px;
+    min-height: 120px;
+    width: 100%;
+    background: url(homework.jpg);
+
+}
+
+
+.text1{
+    margin-top: 100px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.text{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 28px;
+    color: rgba(26,26,26,.7);
+}
+.cont{
+    text-align: center;
+}
+
+
+.one{
+    display: inline-block;
+    margin-right: 20px;
+    text-align: left;
+    color: rgba(26,26,26,.7);
+    font-family: sans-serif;
+}
+.cont2{
+    text-align: center;
+    margin-right: 650px;
+}
+
+
+
+
+.WEbut{
+    margin-top:40px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+.WE{
+
+    padding: 25px 46px;
+    font-size: large;
+    border: 2px solid #020e2c;
+    color:#ffffff;
+    background-color:#272727;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;  
+}
+.WE:hover{
+    transition: 0.1;
+    opacity: 0.5;
+}
+
+
+
+.row{
+    width: 100%;
+    height: 800px;
+    background: #020e2c;
+    display: inline-block;
+
+}
+.footer{
+    width: 800px;
+    height: 180px;
+    background: #7d9bd9;
+    padding: 63px;
+    margin-left: 200px ;
+    margin-top: 100px;
+}
+.sub{
+    color: #dbe6f5;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-align:center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.shit{
+    color:#fbfafe;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+.email{
+    padding: 6px 3px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right:0px; 
+}
+input[type=email]{
+    padding: 20px;
+    width: 220px;
+    height: 10px;
+}
+.sign{
+    padding: 1em 2.5em;
+    border-radius: 300px;
+    color: white;
+    background-color: #070070;
+    border: 1px solid #070070 ;   
+}
+.sign:hover{
+    opacity: 0.5;
+    transition: 0.1;
+}
+.bottominfo{
+    width: 600px;
+    text-align: right;
+    color: white;
+    display:inline-block;
+}
+.zdust{
+    color: #bfc0c5;
+    font-family: monospace;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.2em;
+}
+.downp{
+
+    letter-spacing: 0.8px;
+    color: #82b2bb;
+    font-family: sans-serif;
+}
+.downpp{
+    letter-spacing: 0.8px;
+    color: #82b2bb;
+    font-family: sans-serif;
+}
+.logo{
+   
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

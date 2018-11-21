@@ -1,0 +1,353 @@
+
+a{
+    color: #020e2c;
+    text-decoration:none
+}
+button{
+    cursor: pointer;
+}
+.font{
+
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0px;
+    display: inline-block;
+    text-align: right;
+    margin: 30px;
+
+}
+.left{
+    display: inline-block;
+    text-align: right;
+
+}
+.join {
+    padding: 5px 20px;
+    border: 2px solid #020e2c;
+    color:#020e2c;
+    background-color: white;
+    border-radius: 300px;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;  
+    
+}
+
+.imgs{
+    width: 130px;
+    display:inline-block;
+    padding-inline-end: 200px;
+
+}
+.collection1{
+    padding-inline-start: 530px;
+    padding-inline-end: 15px;
+    display: inline-block;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+     
+}
+.collection2{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+
+}
+.collection3{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+}
+.collection4{
+    display: inline-block;
+    padding-inline-end: 15px;
+    vertical-align: middle; 
+
+    font-family: sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    
+}
+
+.foto{
+    margin-bottom: 100px;
+    margin-top: 0px;
+    min-height: 120px;
+    width: 100%;
+    background: url(homework.jpg);
+
+}
+.azimov{
+    font-weight: 100; 
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.2em;
+}
+.azimo{
+    text-align: center;
+    font-family: proxima-nova; 
+    margin-bottom: 80px;
+}
+.join:hover{
+    text-align: right;
+    background-color:black;
+    transition: 0.2;
+    color: white;
+}
+.centered{
+    width: 65%;
+    height: 370px;
+    background: url(a.jpg);
+    margin: 0 auto;
+    text-align: center;
+}
+.big_text{
+    font-size: 60px;
+    text-align: center;
+    color:white;
+    text-transform: uppercase;
+    margin: 0%;
+    padding: 26px 12px;
+}
+
+.centered p{
+ text-align: center;
+ color: white;
+ font-size: 20px;
+}
+.centered button{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    border-radius:300px;
+    background:white;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    margin:0px;
+    border: none;
+}
+.centered button:hover{
+    opacity: 0.8;
+}
+.quote{
+    text-align: center;
+    font-size: 8em;
+    display: block;
+    opacity: .3;
+    margin-top: 80px;
+
+}
+.textMIT{
+    margin-top: 0px;
+    text-align: center;
+    font-family:monospace;
+    margin-bottom: 80px; 
+
+}
+.MIT{
+    margin: 0px;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 2;
+    color: rgba(26,26,26,.9);
+}
+.News{
+    font-size: 30px;
+    padding-top: 1em;
+    opacity: .5;
+    font-weight: 100;
+}
+.An{
+
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 1.6em;
+    color: rgba(26,26,26,.7);
+}
+.bottomtexstyle{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.2em;
+    text-align: center;
+}
+.ss{
+    text-align: center;
+}
+.underbottomtext{
+    margin-top: 80px;
+    text-align: center;
+    color: rgba(26,26,26,.9);
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+}
+.underbottomtext2{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 28px;
+}
+.WEbut{
+    margin-top:40px;
+    text-align: center;
+}
+.WE{
+
+    padding: 25px 46px;
+    font-size: x-large;
+    border: 2px solid #020e2c;
+    color:#ffffff;
+    background-color:#272727;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;  
+}
+.WE:hover{
+    transition: 0.1;
+    opacity: 0.5;
+}
+.bottomthings{
+    text-align: center;
+}
+.BLOG{
+    
+    color: #3d9991;   
+}
+.FOLLOW{
+    font-family: monospace;
+    font-weight: 600;
+    color: rgba(26,26,26,.9);
+    font-size: 20px;
+    line-height: 2;
+}
+.twitter{
+    margin-bottom: 100PX;
+    text-align: center; 
+}
+.twitter:hover{
+    transition: 0.1;
+    opacity: 0.5;
+}
+.bird:hover{
+    transition: 0.1;
+    opacity: 0.5;
+}
+.in:hover{
+    transition: 0.1;
+    opacity: 0.5;
+}
+
+.row{
+    width: 100%;
+    height: 800px;
+    background: #020e2c;
+    display: inline-block;
+
+}
+.footer{
+    width: 800px;
+    height: 180px;
+    background: #7d9bd9;
+    padding: 63px;
+    margin-left: 200px ;
+    margin-top: 100px;
+}
+.sub{
+    color: #dbe6f5;
+    font-weight: 100;
+    font-family: sans-serif;
+    text-align:center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.shit{
+    color:#fbfafe;
+    font-weight: lighter;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+.email{
+    padding: 6px 3px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right:0px; 
+}
+input[type=email]{
+    padding: 20px;
+    width: 220px;
+    height: 10px;
+}
+.sign{
+    padding: 1em 2.5em;
+    border-radius: 300px;
+    color: white;
+    background-color: #070070;
+    border: 1px solid #070070 ;   
+}
+.sign:hover{
+    opacity: 0.5;
+    transition: 0.1;
+}
+.bottominfo{
+    width: 600px;
+    text-align: right;
+    color: white;
+    display:inline-block;
+}
+.zdust{
+    color: #bfc0c5;
+    font-family: monospace;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.2em;
+}
+.downp{
+
+    letter-spacing: 0.8px;
+    color: #82b2bb;
+    font-family: sans-serif;
+}
+.downpp{
+    letter-spacing: 0.8px;
+    color: #82b2bb;
+    font-family: sans-serif;
+}
+.logo{
+   
+    margin-top: 20px;
+}
+
+/* display: inline-block; */
